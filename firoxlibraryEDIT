@@ -4,6 +4,8 @@ local library = {
 	items = { } 
 }
 
+getgenv().flags = library.flags
+
 -- Services
 local players = game:GetService("Players")
 local uis = game:GetService("UserInputService")
