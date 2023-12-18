@@ -1,5 +1,3 @@
-89% of storage used … You can clean up space or get more storage for Drive, Gmail, and Google Photos.
-v2.txt
 -- Get stuff --
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/8Irelyn/loadstrings/main/firoxlibraryEDIT"))()
 Library.theme.accentcolor = Color3.new(0.603921, 0.011764, 1)
